@@ -1,7 +1,7 @@
 -- ============================================================
 --  MM2 Trade Manager  (ORIGINAL + SPINNER + SETTINGS + BINDS)
 --  LocalScript → StarterPlayerScripts
---  forusty on TT
+--  Rapunzelandtwint on TT
 -- ============================================================
 
 local Players = game:GetService("Players")
